@@ -1,4 +1,9 @@
 Presenters Data collection
+- Frontend features
+   * UI indicators for required fields, min-character limit for message field
+   * optional file upload attachment size limited to 5MB
+   * user-friendly validation message upon submit
+   * Success message for confirmation state
 
 Frontend UI
 ------------
